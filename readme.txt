@@ -9,3 +9,6 @@ git test git command:
 5, git checkout -b dev # create a new branch, name: dev
 6, git branch dev
 7, git checkout dev
+8, git branch # show all branch, include: master and branch(eg: dev, master)
+9, git merge dev # merge dev to master
+10, git branch -d dev   # delete branch "dev"
