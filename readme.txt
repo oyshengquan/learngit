@@ -12,3 +12,5 @@ git test git command:
 8, git branch # show all branch, include: master and branch(eg: dev, master)
 9, git merge dev # merge dev to master
 10, git branch -d dev   # delete branch "dev"
+
+### Creating a new branch is quick AND simple. 
